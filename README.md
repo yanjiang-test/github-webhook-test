@@ -5,3 +5,5 @@
 
 ## level2
 hmac-sha256 failed
+
+## yy-sensitive-scan test  success
